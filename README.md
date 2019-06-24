@@ -4,7 +4,7 @@
 
 Members of the art portfolio build week will be able to share their own photographs, so that they can be added to the final version of the project
 
-## Requirments
+## Requirements
 ```
   Max-size: 650x650px
   Min-size: 275x275px
