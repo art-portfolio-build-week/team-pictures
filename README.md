@@ -17,7 +17,7 @@ Members of the art portfolio build week will be able to share their own photogra
 7. Add Patrick Rodrigues as a reviewer
 
 Example of folder structure after merge
-
+```
 Master
 |---patrick-Rodrigues
 |---greg-poirier
@@ -26,3 +26,4 @@ Master
 |---Mai Ho
 |---Theirry Roux
 |---Aj Bush
+```
