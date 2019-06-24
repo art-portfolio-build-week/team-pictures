@@ -4,6 +4,13 @@
 
 Members of the art portfolio build week will be able to share their own photographs, so that they can be added to the final version of the project
 
+## Requirments
+  Max-size: 650x650px
+  Min-size: 275x275px
+  Ratio: 1:1
+  Fileformat: .png
+  *Optional: Enable interlacing*  
+
 ## Steps to follow
 1. Clone the repo
 3. Branch out with your name and last name
@@ -27,3 +34,5 @@ Master
 |---Theirry Roux
 |---Aj Bush
 ```
+
+# Remember your MVP comes first!!!
