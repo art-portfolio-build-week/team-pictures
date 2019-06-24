@@ -17,7 +17,7 @@ Members of the art portfolio build week will be able to share their own photogra
   1. Clone the repo
   3. Branch out with your name and last name
   2. Create a new folder with your name and last name
-  3. Name your pictures following this pattern: `<First & Last name initals>_<Title>.png` -> `PR_Lasauvage.png
+  3. Name your pictures following this pattern: `<First & Last name initals>_<Title>.png` -> `PR_Lasauvage.png`
   4. Create a Readme.md file inside your folder and add descriptions & timestamp to your pictures
   
     PR_Lasauvage:
